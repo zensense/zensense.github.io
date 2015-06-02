@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Jeff Turman
 tagline:             'Library-geek, lego-builder, data-visualizer.'
 description:         'I speak in code and build fantastic toys. I also try to make data fun and informative.'
-url:                 http://zensense.github.io
+url:                 ''
 baseurl:             ''
 paginate:            2
 
