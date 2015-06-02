@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Jeff Turman
-tagline:             'Tek for life'
-description:         'A reserved fellow updates his programming skills.'
+tagline:             'Library Geekin\''
+description:         'I speak in code and build fantastic toys. I also try to make data fun and informative.'
 url:                 http://zensense.github.io
 baseurl:             ''
 paginate:            5
