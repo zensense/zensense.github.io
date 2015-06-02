@@ -6,17 +6,19 @@ relative_permalinks: true
 
 # Setup
 title:               Jeff Turman
-tagline:             'Library Geekin\''
+tagline:             'Library-geek, lego-builder, data-visualizer.'
 description:         'I speak in code and build fantastic toys. I also try to make data fun and informative.'
 url:                 http://zensense.github.io
 baseurl:             ''
-paginate:            5
+paginate:            2
 
 # About/contact
 author:
   name:              Jeff Turman
-  url:               https://twitter.com/outtastyle
+  twitter:           outtastyle
+  github:            zensense
   email:             turmanator@email.arizona.edu
+  phone:             (520) 344-0517 
 
 # Custom vars
 version:             1.0.0
