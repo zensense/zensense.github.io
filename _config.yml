@@ -9,7 +9,7 @@ title:               Jeff Turman
 tagline:             'Library-geek, lego-builder, data-visualizer.'
 description:         'I speak in code and build fantastic toys. I also try to make data fun and informative.'
 url:                 ''
-baseurl:             ''
+baseurl:             'http://jeffturman.com'
 paginate:            2
 
 # About/contact
