@@ -3,7 +3,7 @@ layout: post
 title: Learning data mining with Coursera: Part 2
 ---
 
-![A dual network plot of hospital ward contact]({{ site.url }}/assets/jturman_week3_network-dual.png =500px)
+![A dual network plot of hospital ward contact]({{ site.url }}/assets/jturman_week3_network-dual.png)
 
 The data-vis class from the U of Illinois is winding down. There were two assignments that students had to complete and grade for each other:
 1. The display of numerical data (essential plot design)
