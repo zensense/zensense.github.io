@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning data mining with Coursera: Part 1
+title: Learning data mining with Coursera - Part 1
 ---
 
 I've always wanted to learn data visualization and data mining, formally. And since I (luckily) work in a place full of data (a big, beautiful library), I figured I could try my hand at a MOOC (massive open online course). And start with unique data that I was familiar with and others didn't have access to.
