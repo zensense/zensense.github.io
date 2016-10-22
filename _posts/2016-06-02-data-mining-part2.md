@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning data mining with Coursera - Part 2
+title: Learning data mining with MOOCs - Part 2
 ---
 
 ![A dual network plot of hospital ward contact]({{ site.url }}/assets/jturman_week3_network-dual.png)
