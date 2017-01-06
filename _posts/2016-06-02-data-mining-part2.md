@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning data mining with MOOCs - Part 2
+title: Visualizing a hospital contact network
 ---
 
 ![A dual network plot of hospital ward contact]({{ site.url }}/assets/jturman_week3_network-dual.png)
