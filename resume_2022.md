@@ -1,14 +1,7 @@
 ---
 layout: page
-title: Resume 2022
+title: Code Hammer, Data Hacker, Tinkerer and DIY Advocate
 ---
-
-# Jeff Turman 
-## Code Hammer, Data Hacker, Tinkerer and DIY Advocate
-
----
-
-### Synopsis
 
 For the last 15 years, I've dedicated my career to morally responsible computer architecture by making safe, reliable, and useful software for education and journalism. I believe technology should only contribute to society and human well-being. The privacy of citizens is one of the most important aspects of good software practice - our tech should not spy on us.
 
