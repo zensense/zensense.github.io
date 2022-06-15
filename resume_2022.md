@@ -14,7 +14,7 @@ For the last 15 years, I've dedicated my career to morally responsible computer 
 
 ---
 
-### Achievments
+### Achievements
 
 - Currently, I am a commitee member of the PII Data Retention and Management Working Group, charged by the Assessment Coordination Group of the UA Libraries to initialize and help maintain the guiding practices for UAL's use and retention of personal identifiable information (PII), as well as maintain an inventory of where such data is generated and used, in order to increase the security of patron's data security
 - Member of multiple hiring search committees, including the Head of the Office of Digital Innovation and Stewardship (ODIS) at UAL, providing guidance about technology principals and standards expected in the UA Libraries
@@ -26,25 +26,25 @@ For the last 15 years, I've dedicated my career to morally responsible computer 
 
 ### Work Experience
 
-#### University of Arizona Libraries
+**University of Arizona Libraries**
 2014 - present
 
-As an **Application Systems Analyst Developer, Sr.**, I maintain software for the University of Arizona Libraries' Tech Services/Strategies (TeSS) department including learning tools, digital collections, database portals, repository access and metadata analysis, as well as the main Libraries' website. 
+As an _Application Systems Analyst Developer, Sr._, I maintain software for the University of Arizona Libraries' Tech Services/Strategies (TeSS) department including learning tools, digital collections, database portals, repository access and metadata analysis, as well as the main Libraries' website. 
 
-#### Wick Newspaper Properties
+**Wick Newspaper Properties**
 2012 - 2014
 
-As a **Web Developer, Sr.**, I created and maintained web properties and applications for 15 different newspapers, including journalism sites such as the [Frontiersman](https://www.frontiersman.com/) and [The Green Valley News and Sahuarita Sun](https://www.gvnews.com/), and the [Tucson Weekly](https://www.tucsonweekly.com/), of course. I developed a JavaScript library for live newsstand geolocation and status via the then-new Google Tools API, helping to increase the visibility of physical newsstands in towns like Anchorage, AK. I also developed a streetcam integration project to help drivers avoid congestion in small towns, before Google Maps started displaying drive times and traffic updates.
+As a _Web Developer, Sr._, I created and maintained web properties and applications for 15 different newspapers, including journalism sites such as the [Frontiersman](https://www.frontiersman.com/) and [The Green Valley News and Sahuarita Sun](https://www.gvnews.com/), and the [Tucson Weekly](https://www.tucsonweekly.com/), of course. I developed a JavaScript library for live newsstand geolocation and status via the then-new Google Tools API, helping to increase the visibility of physical newsstands in towns like Anchorage, AK. I also developed a streetcam integration project to help drivers avoid congestion in small towns, before Google Maps started displaying drive times and traffic updates.
 
-#### Tucson Newspapers Incorporated (Gannett Enterprises)
+**Tucson Newspapers Incorporated (Gannett Enterprises)**
 2008 - 2012
 
-As a **Web Developer** for the Arizona Daily Star and the Tucson Citizen, I maintained programming for the two high-availability properties. I helped program one of the first real estate finder applications for the newspapers using my own Javascript code that employed the Haversine formula, dramatically increasing the newspaper's clickthru revenue. I also won a cash award for decreasing marketing turnaround times to deliver prospective client marketing materials. When the Tucson Citizen was dissolved, I helped archive over 30 years worth of articles, >100K documents, which myself and many others have since data-mined for numerous projects. I also helped develop the first Daily Star iOS mobile app, which netted the Star >2K app downloads by the middle of 2012.
+As a _Web Developer_ for the Arizona Daily Star and the Tucson Citizen, I maintained programming for the two high-availability properties. I helped program one of the first real estate finder applications for the newspapers using my own Javascript code that employed the Haversine formula, dramatically increasing the newspaper's clickthru revenue. I also won a cash award for decreasing marketing turnaround times to deliver prospective client marketing materials. When the Tucson Citizen was dissolved, I helped archive over 30 years worth of articles, >100K documents, which myself and many others have since data-mined for numerous projects. I also helped develop the first Daily Star iOS mobile app, which netted the Star >2K app downloads by the middle of 2012.
 
-#### Foundry Digital Design
+**Foundry Digital Design**
 2007 - 2008
 
-Foundry was my first entrepreneurial venture to profit from my skills as a technologist. I had ~30 clients that I developed and hosted web sites for using PHP/Linux/Apache. I was one of the original co-founders of the first Tucson Wordpress Meetup, Tucson Digital Arts Community, and what eventually became the first Tucson co-working space at 115 S. Broadway. (We could never get rid of the cockroaches.)
+Foundry was my first entrepreneurial venture to profit from my skills as a _Technologist/Developer_. I had ~30 clients that I developed and hosted web sites for using PHP/Linux/Apache. I was one of the original co-founders of the first Tucson Wordpress Meetup, Tucson Digital Arts Community, and what eventually became the first Tucson co-working space at 115 S. Broadway. (We could never get rid of the cockroaches.)
 
 ---
 
