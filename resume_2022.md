@@ -130,3 +130,9 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 ### Education
 
 **2001** _Bachelor of Fine Arts_, University of Arizona
+
+---
+
+### Civic & Professional Affiliations
+
+* [Code4Tucson](https://codefortucson.org), a local technologist group representing the Code4America Brigade
