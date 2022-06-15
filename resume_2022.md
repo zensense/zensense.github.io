@@ -20,7 +20,7 @@ For the last 15 years, I've dedicated my career to morally responsible computer 
 - Member of multiple hiring search committees, including the Head of the Office of Digital Innovation and Stewardship (ODIS) at UAL, providing guidance about technology principals and standards expected in the UA Libraries
 - Attendee of Code4Lib, the conference for digital libraries in education, government, and other stewards of data, representing the UA Libraries as a leading national institution of higher education
 - Original member of [Code4Tucson](https://codefortucson.org), a local technologist group representing the Code4America Brigade, planning and participating in the first formal Tucson civic hacking event
-- Winner of 2009 Award of Excellence in Technology, Arizona Daily Star/Tucson Citizen, for the design and programming of tools that decreased the Marketing department's turn-around time for delivering materials to potential clients by automating PDF file creation and concatenation
+- Winner of 2009 Award of Excellence in Technology, Arizona Daily Star/Tucson Citizen, for the design and programming of tools that decreased the Marketing department's turnaround time for delivering materials to potential clients by automating PDF file creation and concatenation
 
 ---
 
@@ -39,7 +39,7 @@ As a _Web Developer, Sr._, I created and maintained web properties and applicati
 **Tucson Newspapers Incorporated (Gannett Enterprises)**
 2008 - 2012
 
-As a _Web Developer_ for the Arizona Daily Star and the Tucson Citizen, I maintained programming for the two high-availability properties. I helped program one of the first real estate finder applications for the newspapers using my own Javascript code that employed the Haversine formula, dramatically increasing the newspaper's clickthru revenue. I also won a cash award for decreasing marketing turnaround times to deliver prospective client marketing materials. When the Tucson Citizen was dissolved, I helped archive over 30 years worth of articles, >100K documents, which myself and many others have since data-mined for numerous projects. I also helped develop the first Daily Star iOS mobile app, which netted the Star >2K app downloads by the middle of 2012.
+As a _Web Developer_ for the Arizona Daily Star and the Tucson Citizen, I maintained programming for the two high-availability properties. I helped program one of the first real estate finder applications for the newspapers using my own Javascript code that employed the Haversine formula, dramatically increasing the newspaper's clickthru revenue. I also won a cash award for developing an application decreasing the turnaround time of delivery of marketing materials to prospective clientele. When the Tucson Citizen was dissolved, I helped archive over 30 years worth of articles, >100K documents, which myself and many others have since data-mined for numerous projects. I also helped develop the first Daily Star iOS mobile app, which netted the Star >2K app downloads by the middle of 2012.
 
 **Foundry Digital Design**
 2007 - 2008
