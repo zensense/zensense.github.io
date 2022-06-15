@@ -21,6 +21,7 @@ For the last 15 years, I've dedicated my career to morally responsible computer 
 - Attendee of Code4Lib, the conference for digital libraries in education, government, and other stewards of data, representing the UA Libraries as a leading national institution of higher education
 - Original member of [Code4Tucson](https://codefortucson.org), a local technologist group representing the Code4America Brigade, planning and participating in the first formal Tucson civic hacking event
 - Winner of 2009 Award of Excellence in Technology, Arizona Daily Star/Tucson Citizen, for the design and programming of tools that decreased the Marketing department's turn-around time for delivering materials to potential clients by automating PDF file creation and concatenation
+
 ---
 
 ### Work Experience
