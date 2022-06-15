@@ -36,7 +36,7 @@ As a _Web Developer_ for the Arizona Daily Star and the Tucson Citizen, I mainta
 **Foundry Digital Design**
 2007 - 2008
 
-Foundry was my first entrepreneurial venture to profit from my skills as a _Technologist/Developer_. I had ~30 client properties that I developed and hosted, using PHP/Linux/Apache (LAMP). I was one of the original co-founders of the first Tucson Wordpress Meetup, Tucson Digital Arts Community, and what eventually became the first Tucson co-working space at 115 S. Broadway. (We could never get rid of the cockroaches.)
+Foundry was my first entrepreneurial venture to profit from my skills as a _Technologist/Developer_. I had ~30 client properties that I developed and hosted, using PHP/Linux/Apache (LAMP). I was one of the original members of the first Tucson Wordpress Meetup, Tucson Digital Arts Community, and what eventually became the first Tucson co-working space at 115 S. Broadway. (We could never get rid of the cockroaches.)
 
 ---
 
