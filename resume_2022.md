@@ -69,6 +69,7 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 - Human
 - Docker/Compose
 - Unix shell scripting
+- Git, Subversion version control
 
 #### Skill Sets
 
@@ -93,7 +94,6 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 	- VS Code
 	- AWS Cloud9
 	- Vi/Vim
-* Version control (Git, Subversion)
 * Unix operating systems:
 	- Debian package environment (`apt`)
 	- RedHat package environment (`yum`)
