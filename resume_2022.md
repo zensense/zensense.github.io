@@ -124,3 +124,9 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 | **Cluster Analysis in Data Mining** | University of Illinois | 2017 | [Verification](https://www.coursera.org/account/accomplishments/verify/A58TG4HZ4Z39) |
 | **Multimedia Programming and Design** | Design Sessions, Multimedia | 2007 | New York City, NY |
 | **Digital Archiving, Affiliate** | Smithsonian Institute | 2005 | Washington, DC |
+
+---
+
+### Education
+
+**2001** _Bachelor of Fine Arts_, University of Arizona
