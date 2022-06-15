@@ -122,10 +122,10 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 
 ### Accreditations and Certifications
 
-* Data Visualization -- https://www.coursera.org/account/accomplishments/verify/PJDG8NKUZFXA
-* Text Retrieval and Search Engines -- https://www.coursera.org/account/accomplishments/verify/GYTHP3ZB46BQ
-* Text Mining and Analytics -- https://www.coursera.org/account/accomplishments/verify/XHNFBFX4PWR8
-* Pattern Discovery in Data Mining -- https://www.coursera.org/account/accomplishments/verify/8LECPEEF7QG4
-* Cluster Analysis in Data Mining -- https://www.coursera.org/account/accomplishments/verify/A58TG4HZ4Z39
-* Multimedia Programming and Design -- Design Sessions, Multimedia | New York City, NY | January 2006 - September 2007
-* Digital Archiving, Affiliate -- Smithsonian Institute | Washington, DC | July, 2005
+**Data Visualization** - University of Illinois || 2016 || [Verification](https://www.coursera.org/account/accomplishments/verify/PJDG8NKUZFXA)
+**Text Retrieval and Search Engines** - University of Illinois || 2016 || [Verification](https://www.coursera.org/account/accomplishments/verify/GYTHP3ZB46BQ)
+**Text Mining and Analytics** - University of Illinois || 2016 || [Verification](https://www.coursera.org/account/accomplishments/verify/XHNFBFX4PWR8)
+**Pattern Discovery in Data Mining** - University of Illinois || 2016 || [Verification](https://www.coursera.org/account/accomplishments/verify/8LECPEEF7QG4)
+**Cluster Analysis in Data Mining** - University of Illinois || 2017 || [Verification](https://www.coursera.org/account/accomplishments/verify/A58TG4HZ4Z39)
+**Multimedia Programming and Design** - Design Sessions, Multimedia || New York City, NY || January 2006 - September 2007
+**Digital Archiving, Affiliate** - Smithsonian Institute || Washington, DC || July, 2005
