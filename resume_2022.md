@@ -51,6 +51,7 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 ### Experience and skill sets
 
 #### Expertise
+
 - XML/XSL/XSLTs
 - SOAP
 - JSON
@@ -70,49 +71,50 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 - Unix shell scripting
 
 #### Skill Sets
-- Web application development:
+
+* Web application development:
 	- Backend development with object oriented programming (OOP)
 	- Frontend development with the Document Object Model (DOM) programming
 	- "Pen-test" application security testing using MetaSploit and other packages found in the Kali Linux distro
 	- Shibboleth/SAML application integration (SSO)
 * Data Mining/Analysis:
-	* Information Retrieval
-	* Machine learning, inferential statistics, sparse matrix analysis
-	* Natural language processing
-	* Structured and unstructured data munging
-	* Elasticsearch/Kibana software
-	* Tableau
+	- Information Retrieval
+	- Machine learning, inferential statistics, sparse matrix analysis
+	- Natural language processing
+	- Structured and unstructured data munging
+	- Elasticsearch/Kibana software
+	- Tableau
 * DevOps:
-	* Virtualization with Vagrant, VirtualBox, Ansible (orchestration)
-	* Containerization with Docker, Docker Compose
-	* Amazon Web Services
-- IDEs:
+	- Virtualization with Vagrant, VirtualBox, Ansible (orchestration)
+	- Containerization with Docker, Docker Compose
+	- Amazon Web Services
+* IDEs:
 	- PHPStorm/PyCharm
 	- VS Code
 	- AWS Cloud9
 	- Vi/Vim
-- Version control (Git, Subversion)
-- Unix operating systems:
+* Version control (Git, Subversion)
+* Unix operating systems:
 	- Debian package environment (`apt`)
 	- RedHat package environment (`yum`)
 	- R-Pi (Raspbian)
-- Mac/Apple operating system (MacOS, iOS):
+* Mac/Apple operating system (MacOS, iOS):
 	- Brew package environment
 	- Native application development and distribution
 * Application Programming Interfaces (API) development and usage:
-	* CRUD
-	* Request/Response Cycle
+	- CRUD
+	- Request/Response Cycle
 * Agile methodology:
-	* Scrum
-	* Kanban
+	- Scrum
+	- Kanban
 * Remote development protocols:
-	* `ssh`
-	* `telnet`
-	* HTTP
-	* TCP/IP
-	* FTP, SFTP
+	- `ssh`
+	- `telnet`
+	- HTTP
+	- TCP/IP
+	- FTP, SFTP
 	- SMTP
-- Library preservation objects and protocols:
+* Library preservation objects and protocols:
 	- Dublin core, METS, etc.
 	- Bags and bagging objects
 	- AIP, SIP, DIP
@@ -120,7 +122,8 @@ Foundry was my first entrepreneurial venture to profit from my skills as a _Tech
 
 ---
 
-| Accreditations and Certifications |
+### Accreditations and Certifications
+
 | --- | --- | --- | --- |
 | **Data Visualization** | University of Illinois | 2016 | [Verification](https://www.coursera.org/account/accomplishments/verify/PJDG8NKUZFXA) |
 | **Text Retrieval and Search Engines** | University of Illinois | 2016 | [Verification](https://www.coursera.org/account/accomplishments/verify/GYTHP3ZB46BQ) |
