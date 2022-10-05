@@ -9,7 +9,7 @@ For the last 15 years, I've dedicated my career to morally responsible computer 
 
 ### Achievements
 
-- Currently, I am a commitee member of the PII Data Retention and Management Working Group, charged by the Assessment Coordination Group of the UA Libraries to initialize and help maintain the guiding practices for UAL's use and retention of personal identifiable information (PII), as well as maintain an inventory of where such data is generated and used, in order to increase the security of patron's data
+- Member of the PII Data Retention and Management Working Group, charged by the Assessment Coordination Group of the UA Libraries to initialize and help maintain the guiding practices for UAL's use and retention of personal identifiable information (PII), as well as maintain an inventory of where such data is generated and used, in order to increase the security of patron data
 - Member of multiple hiring search committees, including the Head of the Office of Digital Innovation and Stewardship (ODIS) at UAL, providing guidance about technology principals and standards expected in the UA Libraries
 - Attendee of Code4Lib, the conference for digital libraries in education, government, and other stewards of data, representing the UA Libraries as a leading national institution of higher education
 - Winner of 2009 Award of Excellence in Technology, Arizona Daily Star/Tucson Citizen, for the design and programming of tools that decreased the Marketing department's turnaround time for delivering materials to potential clients by automating PDF file creation and concatenation
