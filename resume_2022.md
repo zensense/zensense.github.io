@@ -21,7 +21,7 @@ For the last 15 years, I've dedicated my career to morally responsible computer 
 **University of Arizona Libraries**
 2014 - present
 
-As an _Application Systems Analyst Developer, Sr._, I maintain software for the University of Arizona Libraries' Tech Services/Strategies (TeSS) department including learning tools, digital collections, database portals, repository access and metadata analysis, as well as the main Libraries' website. 
+As an _Applications Development Programmer_, I create and maintain software for the University of Arizona Libraries' Tech Services/Strategies (TeSS) department including learning tools, digital collections, database portals, repository access and metadata analysis, as well as the main Libraries' website. 
 
 **Wick Newspaper Properties**
 2012 - 2014
